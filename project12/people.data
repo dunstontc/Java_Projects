@@ -1,0 +1,16 @@
+p 100001  Hamilton_John_Q  English
+p 100002  Jackson_Susan_H  PoliticalScience
+p 100003  Taylor_John_J    Math
+p 100004  Sutton_Alice_S   Chemistry
+u 200001  Adams_Matthew_C  1111      History
+u 200002  Zachery_Alice_C  2222      Art
+u 200003  Baker_Judy_E     3333      Economics
+u 200004  Peters_Mike_J    4444      Education
+m 300001  Perkins_Lester_M 111111    Georgia_Tech   Solid_State_Laser_Construction
+m 300002  Sanders_Susan_B  222222    MIT            New_Transistor_Design
+m 300003  Tyler_Ann_E      333333    Stanford       Realtime_JVM_Design
+m 300004  Ranitovic_Igor   444444    BSC            Java_And_Software_Engineering
+d 400001  Atkins_Mary_E    11111111  Duke           Managing_Process_Threads
+d 400002  Clements_Alan_H  22222222  Berkeley       New_Ideas_In_Database_Design
+d 400003  Monroe_James_J   33333333  U_of_Illinois  Building_A_Different_SuperComputer
+d 400004  Carr_Martha_C    44444444  CalTech        A_Dataflow_Computer
